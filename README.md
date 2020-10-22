@@ -6,4 +6,4 @@ To use:
 - npm run devStart
 - in your browser, load localhost:5000
 - you should see a GraphQL 'interface' in the browser
-- put these in the left panel to get started
+- see server.js for comments, queries to try, and exercises
